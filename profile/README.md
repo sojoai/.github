@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+We are a machine learning-powered platform for music therapists.
+
+We want to make therapy a better experience
+
 <!--
 
 **Here are some ideas to get you started:**
